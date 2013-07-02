@@ -32,3 +32,7 @@ Inspecting ./phpx6G3lD.jpg<br/>
   Huffman table optimizations: 0<br/>
   Progressive JPEG optimizations: 21<br/>
   Total bytes saved: 63918<br/>
+
+
+
+(c)http://www.mikebrittain.com/blog/2010/01/27/batch-processing-your-jpegs-with-jpegtran/
