@@ -14,12 +14,12 @@ $ ./optimize_jpegs.pl  /path/to/your/images/dir
 
 That’s it.  The output should look something like this:
 
-Inspecting ./phpXkWlcW.jpg
- -- Progressive JPEG optimization: saved 1089 bytes (orig 13464)
-Inspecting ./phpCnBRri.jpg
- -- Progressive JPEG optimization: saved 1155 bytes (orig 34790)
-Inspecting ./phpx6G3lD.jpg
- -- Progressive JPEG optimization: saved 742 bytes (orig 11493)
+Inspecting ./phpXkWlcW.jpg<br/>
+ -- Progressive JPEG optimization: saved 1089 bytes (orig 13464)<br/>
+Inspecting ./phpCnBRri.jpg<br/>
+ -- Progressive JPEG optimization: saved 1155 bytes (orig 34790)<br/>
+Inspecting ./phpx6G3lD.jpg<br/>
+ -- Progressive JPEG optimization: saved 742 bytes (orig 11493)<br/>
 
 ...
 
@@ -27,8 +27,8 @@ Inspecting ./phpx6G3lD.jpg
   Sumary
 ----------------------------
 
-  Inspected 21 JPEG files.
-  Modified 21 files.
-  Huffman table optimizations: 0
-  Progressive JPEG optimizations: 21
-  Total bytes saved: 63918
+  Inspected 21 JPEG files.<br/>
+  Modified 21 files.<br/>
+  Huffman table optimizations: 0<br/>
+  Progressive JPEG optimizations: 21<br/>
+  Total bytes saved: 63918<br/>
